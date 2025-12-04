@@ -6,12 +6,12 @@ export default function Terminal() {
   const inputRef = useRef(null);
   const containerRef = useRef(null);
   const workdist = {
-    Jatayu: {
-      link: "#",
-      desc: "A bionic flying bird with cameras buit using esp32",
-    },
+    // Jatayu: {
+    //   link: "#",
+    //   desc: "A bionic flying bird with cameras buit using esp32",
+    // },
     HandGesture: {
-      link: "#",
+      link: "https://github.com/Nikolaigamer11/hand_gesture",
       desc: "A sign language detection device that can detect sign language and traslate it ",
     },
   };
@@ -94,12 +94,12 @@ __  _  __ ____ |  |   ____  ____   _____   ____
             </a>
           </div>
           <div>
-            <a href="">
+            <a href="https://wa.me/+918697630672?text=Hello%20Ankur%2C%20just%20visited%20your%20site">
               <FaWhatsapp />
             </a>
           </div>
           <div>
-            <a href="">
+            <a href="https://github.com/Nikolaigamer11">
               <FaGithub />
             </a>
           </div>
@@ -135,7 +135,7 @@ __  _  __ ____ |  |   ____  ____   _____   ____
         <div>
           <h3>
             I like to tinker things, and while doing do I have learned a few
-            things on the way, you can enter the command works to see my
+            things on the way, you can enter the command WORKS to see my
             workings.
             <h4 class="text-xs md:text-xl tracking-tight">
               <pre class="overflow-x-hidden text-sm">
