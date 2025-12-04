@@ -2,7 +2,7 @@
   "name": "ankur-portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Nikolaigamer11.github.io/Ankur_portfolio",
+  "homepage": "https://nikolaigamer11.github.io/Ankur_portfolio/",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@gsap/react": "^2.1.2",

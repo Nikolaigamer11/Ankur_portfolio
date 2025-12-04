@@ -1,4 +1,3 @@
-import Navigation from "./navigation";
 import Terminal from "./body";
 export default function Home() {
   return (
